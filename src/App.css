@@ -24,6 +24,10 @@
   color: white;
 }
 
+.rotate {
+  transform: rotate(180deg);
+}
+
 .App-link {
   color: #61dafb;
 }
